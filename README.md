@@ -25,11 +25,7 @@ B.Tech CSE (AI) student at NIAT (in collaboration with Yenopoya University), Man
 - Harsha AI — Personal AI assistant with tool integrations
 - Comet Browser automations — Research and task execution prototypes
 
-### Certificates
-<!-- List specific certificates or showcase them via LinkedIn -->
-- [Certificate Name] — Issuer — Month Year
-- [Certificate Name] — Issuer — Month Year
-- See more on LinkedIn (Projects & Certificates)
+
 
 ### Contact & links
 - Email: grharsha128@gmail.com
