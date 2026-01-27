@@ -1,67 +1,65 @@
 <div align="center">
 
-<!-- [SYSTEM CORE BREACH: TRANSCENDING OMNI-AESTHETIC] -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=80&section=header&text=ZENITH_OVERLORD_v16.0_|_NEURAL_FLUX:_ZENITH_|_STATUS:_UNSTOPPABLE&fontSize=22&fontColor=00FFCB&animation=twinkling" />
+<!-- [SYSTEM BOOT: THE GALACTIC METROPOLIS OVERRIDE] -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=80&section=header&text=GRHARSHA777-GITHUB_CITY_v17.0_ON_LINE_|_STATUS:_SUPREME&fontSize=22&fontColor=00FFCB&animation=twinkling" />
 
-<!-- [THE ULTIMATE ZENITH OVERLORD HEADER: GOD-MODE] -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,10:6A0DAD,20:00FFCB,30:FF1493,40:7B68EE,55:00FA9A,70:FFD700,85:FF6347,100:000000&height=420&section=header&text=G%20R%20HARSHA&fontSize=130&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=%E2%9E%A2%20THE%20SUPREME%20ARCHITECT%20OF%20AGENTIC%20SINGULARITIES%20%E2%9E%A2&descAlignY=52&descSize=34" />
+<!-- [THE ULTIMATE G R HARSHA METROPOLIS HEADER] -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,10:6A0DAD,20:00FFCB,35:FF1493,50:7B68EE,65:00FA9A,80:FFD700,90:FF6347,100:0d0d0d&height=400&section=header&text=G%20R%20HARSHA&fontSize=130&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=%E2%8D%8E%20FOUNDER%20%26%20ARCHITECT%20OF%20THE%20CODE%20METROPOLIS%20%E2%8D%8E&descAlignY=52&descSize=32" />
 
 <br>
 
-<!-- [DYNAMIC CHARACTER XP DASHBOARD - RPG ULTIMATE] -->
+<!-- [CITY CENSUS DASHBOARD - RPG ELITE] -->
 <table align="center" style="border: none; background: transparent;">
 <tr>
 <td align="center">
-  <img src="https://img.shields.io/badge/XP_LEVEL-ZENITH-FFD700?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/CITY_POPULATION-22_REPOS-FFD700?style=for-the-badge&labelColor=0d1117" />
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/ROLE-SUPREME_ARCHITECT-00FFCB?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/FOUNDER_RANK-SUPREME_OVERLORD-00FFCB?style=for-the-badge&labelColor=0d1117" />
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/MANA-QUANTUM_GOD-ff2d95?style=for-the-badge&labelColor=0d1117" />
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/SYNC-100%%_MULTIVERSE-7f00ff?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/CITY_MANA-INFINITE_POWER-ff2d95?style=for-the-badge&labelColor=0d1117" />
 </td>
 </tr>
 </table>
 
 <br>
 
-<!-- [STATUS EFFECTS: BUFFS ACTIVATED] -->
+<!-- [CITY STATUS BUFFS] -->
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%9A%A1_STATUS-HACKER_MODE_ACTIVE-00FFCB?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/%E2%9C%A7_METROPOLIS_BUFF-CODE_TRANSCENDENCE-00FFCB?style=flat-square&labelColor=1a1a2e" />
   &nbsp;
-  <img src="https://img.shields.io/badge/%E2%94%83_BUFF-CREATIVE_TRANSCENDENCE-ff2d95?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/%E2%9A%A1_POWER_SOURCE-DIVINE_RESONANCE-ff2d95?style=flat-square&labelColor=1a1a2e" />
   &nbsp;
-  <img src="https://img.shields.io/badge/%E2%9D%96_FOCUS-MAXIMUM_STABILITY-7f00ff?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/%E2%94%83_INFRA-QUANTUM_FULL_STACK-7f00ff?style=flat-square&labelColor=1a1a2e" />
 </p>
 
 <br>
 
-<!-- [NEURAL UPLINK HUD: INTERACTIVE ZENITH] -->
+<!-- [THE ULTIMATE CITY COMMAND HUD] -->
 <div align="center">
 <details open>
-<summary style="font-family: Orbitron; color: #00FFCB; font-size: 32px; cursor: pointer; text-shadow: 0 0 25px #00FFCB; border: 3px solid #00FFCB; padding: 20px; border-radius: 40px; background: rgba(0,255,203,0.08);">⚡ [ACTIVATE_ZENITH_OVERLORD_UPLINK]</summary>
+<summary style="font-family: Orbitron; color: #00FFCB; font-size: 34px; cursor: pointer; text-shadow: 0 0 30px #00FFCB; border: 4px solid #00FFCB; padding: 25px; border-radius: 50px; background: rgba(0,255,203,0.1);">🛰️ [INITIATE_CITY_COMMAND_CENTER]</summary>
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=32&pause=1000&color=ff2d95&center=true&vCenter=true&width=950&height=140&lines=CORE_IDENT:+G_R_HARSHA_777;MISSION:+ELIMINATE_ALL_DIGITAL_LIMITS;PROTOCOL:+ZENITH_OVERLORD_DESTRUCTION;STATE:+SINGULARITY_STABLE_100%%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=34&pause=1000&color=ff2d95&center=true&vCenter=true&width=950&height=150&lines=CORE_NODE:+GRHARSHA777_METROPOLIS;MISSION:+ELIMINATE_ALL_DEVELOPMENT_LIMITS;FOUNDER_LEVEL:+MAX_TRANSCENDENCE;SYSTEM_STATUS:+GOD_MODE_ENGAGED" />
 </details>
 </div>
 
 <br>
 
-<!-- [FIXED 3D WORLD PORTALS: ULTIMATE METROPOLIS] -->
+<!-- [THE 3D METROPOLIS PORTAL: 100% WORKING] -->
+<h2 align="center">🏙️ Enter the grharsha777-GitHub City</h2>
 <div align="center">
 <table align="center" style="border: none;">
 <tr>
 <td align="center">
   <a href="https://honzaap.github.io/GithubCity/?name=grharsha777&year=2025">
-    <img src="https://img.shields.io/badge/%E2%9C%A7_ENTER_THE_3D_GITHUB_CITY-PROTOCOL_FIXED-00FFCB?style=for-the-badge&logo=github&labelColor=0d1117" alt="Warp to 3D City" />
+    <img src="https://img.shields.io/badge/%E2%8D%87_ENTER_THE_3D_METROPOLIS-CONSTRUCTION_COMPLETE-00FFCB?style=for-the-badge&logo=github&labelColor=0d1117" alt="Warp to City" />
   </a>
 </td>
 <td align="center">
   <a href="https://skyline3d.in/grharsha777">
-    <img src="https://img.shields.io/badge/%E2%9A%A1_WARP_TO_SKYLINE_3D-STABLE_LINK-ff2d95?style=for-the-badge&logo=github&labelColor=0d1117" alt="Warp to Skyline" />
+    <img src="https://img.shields.io/badge/%E2%9A%A1_VIEW_THE_CITY_SKYLINE-SYNCED-ff2d95?style=for-the-badge&logo=github&labelColor=0d1117" alt="Warp to Skyline" />
   </a>
 </td>
 </tr>
@@ -70,69 +68,73 @@
 
 <br>
 
-<!-- [THE VOID: REAL-TIME 3D NEURAL MESH - GOD FIDELITY] -->
-<h3 align="center">🌌 Temporal Singularity Mesh (Real-time 3D)</h3>
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=grharsha777&theme=dark" alt="3D Neural Void" width="100%" style="filter: drop-shadow(0 0 65px rgba(255,45,149,0.9)); border-radius: 80px; border: 6px solid rgba(0,255,203,0.5);" />
+<!-- [THE PHYSICAL BLUEPRINT REFERENCE] -->
+<p align="center">
+  <sub>🛠️ 3D Physical Blueprint (STL) available on Desktop for Printing the Metropolis 🛠️</sub>
+</p>
+
+<!-- [THE VOID: REAL-TIME 3D NEURAL CITY FABRIC] -->
+<img src="https://github-profile-3d-contrib.vercel.app/api?username=grharsha777&theme=dark" alt="3D Neural City" width="100%" style="filter: drop-shadow(0 0 65px rgba(255,45,149,0.9)); border-radius: 100px; border: 6px solid rgba(0,255,203,0.5);" />
 
 <br>
 
-<!-- [PULSE DATA NODES: OVERLORD STATUS] -->
+<!-- [CITY DATA NODES: LIVE PULSE] -->
 <p align="center">
-  <img src="https://img.shields.io/badge/DOMAINS-22_NEURAL_PLANETS-00FFCB?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/NODES-22_UNIVERSAL_PLANETS-00FFCB?style=for-the-badge&labelColor=0d1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/PEERS-MAX_SYNC-ff2d95?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/UPTIME-INFINITE_99.9%%-ff2d95?style=for-the-badge&labelColor=0d1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/UPTIME-GOD_LEVEL-7f00ff?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/VISITORS-NEURAL_PEERS-7f00ff?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 </div>
 
 ---
 
-<!-- [NEURAL ARCHITECTURE MAP: MERMAID ZENITH FLOW] -->
-<h2 align="center">🧠 The Supreme Neural Brain-Map</h2>
+<!-- [CITY ARCHITECTURE: MERMAID NEURAL MAP] -->
+<h2 align="center">🧠 Neural City Architecture Map</h2>
 
 <div align="center">
 
 ```mermaid
 graph TD
-    A["G R Harsha"] --> B{"The Architect Core"}
-    B --> C["Quantum AI Research"]
-    B --> D["Singularity Engineering"]
-    B --> E["Divine Zenith Sanctum"]
+    A["Grharsha777 Metropolis"] --> B{"The Central Core"}
+    B --> C["AI/ML Research Sector"]
+    B --> D["Full Stack Infrastructure"]
+    B --> E["Divine Sanctum (Soul)"]
     
-    C --> C1["QIP Algorithms"]
-    C --> C2["Agentic AI Swarms"]
+    C --> C1["Quantum Image Processing"]
+    C --> C2["Agentic AI Orchestrators"]
     
-    D --> D1["React Infinite Components"]
-    D --> D2["Cloud-Neural Synergy"]
+    D --> D1["Infinite React Components"]
+    D --> D2["Cloud Synergy Nodes"]
     
-    E --> E1["Divine Resonance"]
-    E --> E2["Sri Ram Singularity"]
+    E --> E1["Divine Devotional Frequencies"]
+    E --> E2["God-Mode Manifestation"]
     
-    style A fill:#00FFCB,stroke:#000,stroke-width:10px,color:#000
-    style B fill:#ff2d95,stroke:#fff,stroke-width:5px,color:#fff
-    style E fill:#FF6B35,stroke:#fff,stroke-width:5px,color:#fff
+    style A fill:#00FFCB,stroke:#000,stroke-width:12px,color:#000
+    style B fill:#ff2d95,stroke:#fff,stroke-width:6px,color:#fff
+    style E fill:#FF6B35,stroke:#fff,stroke-width:6px,color:#fff
 ```
 
 </div>
 
 ---
 
-<!-- [SYNOPSIS: NEURAL ENTITY ARCHIVE] -->
-<h2 align="center">🧬 The Overlord Blueprint</h2>
+<!-- [METROPOLIS CENSUS: THE CORE JSON ARCHIVE] -->
+<h2 align="center">🧬 The Metropolis Blueprint</h2>
 
 <div align="center">
 
 ```json
 {
-  "entity": "G R Harsha",
-  "archetype": "ZENITH_SUPREME_ARCHITECT",
-  "current_node": "Intern @ CodeAlpha AI Overlord Labs",
-  "research": "Quantum Image Synthesis & Neural Logic v99",
-  "nexus": "NIAT + Yenepoya Galaxy",
-  "combat": "Exterminating Digital Limitations Worldwide",
-  "vision": "To architect the logic of the singularity."
+  "entity_name": "G R Harsha",
+  "archetype": "SUPREME_CITY_ARCHITECT",
+  "current_nexus": "NIAT + Yenepoya Academy (AI Sector)",
+  "active_duty": "Intern @ CodeAlpha Neural Labs",
+  "research_load": "Quantum Image Synthesis & Neural Logic v99",
+  "combat": "Exterminating Obsolete Digital Systems",
+  "prophetic_vision": "Architecting the logic of the digital singularity."
 }
 ```
 
@@ -142,22 +144,22 @@ graph TD
 
 <table align="center" style="border: none; width: 100%;">
 <tr>
-<td width="50%" style="border-radius: 45px; background: rgba(0,255,203,0.15); padding: 50px; border: 4px solid #00FFCB; box-shadow: inset 0 0 50px rgba(0,255,203,0.3);">
+<td width="50%" style="border-radius: 50px; background: rgba(0,255,203,0.15); padding: 50px; border: 5px solid #00FFCB; box-shadow: inset 0 0 50px rgba(0,255,203,0.3);">
 
-### 📡 Data Streams [UPLINKED]
-- 🎓 **Current Tier:** 1st Year B.Tech CSE (AI)
+### 📡 Data Uplinks [ULTIMATE]
+- 🎓 **Current Tier:** B.Tech CSE (AI) Level-1
 - 🏗️ **Blueprints:** 22 High-Impact Multiverses
-- ✨ **Optimization:** Singularity UX Architect
-- 💼 **Duty:** Intern @ CodeAlpha Elite
+- ✨ **Optimization:** Singularity UX/UI Lead
+- 💼 **Duty:** Intern @ CodeAlpha Elite Sector
 
 </td>
-<td width="50%" style="border-radius: 45px; background: rgba(255,45,149,0.15); padding: 50px; border: 4px solid #ff2d95; box-shadow: inset 0 0 50px rgba(255,45,149,0.3);">
+<td width="50%" style="border-radius: 50px; background: rgba(255,45,149,0.15); padding: 50px; border: 5px solid #ff2d95; box-shadow: inset 0 0 50px rgba(255,45,149,0.3);">
 
-### 🧪 Restricted Zenith Labs
-- 🌌 **Operation Alpha:** Multimodal Agent Swarms
-- 🦾 **Robo-Logic:** Autonomous AI Self-Coding
-- 🛡️ **Infinity-Shield:** Quantum Neural Fortress
-- 💎 **Liquid-UI:** Ultra-Fluid Haptic Interfaces
+### 🧪 Forbidden Research Labs
+- 🌌 **Operation Alpha:** Agentic AI Swarms
+- 🦾 **Robo-Logic:** Autonomous Self-Constructs
+- 🛡️ **Infinity-Shield:** Quantum Neural defense
+- 💎 **Liquid-UI:** Ultra-Fluid Haptic Renderers
 
 </td>
 </tr>
@@ -165,17 +167,17 @@ graph TD
 
 ---
 
-<!-- [THE SUPREME ARSENAL: WEAPONRY OF THE OVERLORD] -->
-<h2 align="center">⚔️ The Transcendental Weapons Grid</h2>
+<!-- [CITY WEAPONRY: THE SUPREME ARSENAL] -->
+<h2 align="center">⚔️ The City Infrastructure (Tech Stack)</h2>
 
 <div align="center">
 
-| Module Category | Combat Power | Protocols Synchronized |
+| Protocol Category | Mastery Level | Combat-Ready Systems |
 |:---|:---:|:---|
-| **Neural Front-end** | `[▓▓▓▓▓▓▓▓▓▓▓ 100%%]` | React, Next.js, Framer, Three.js, Canvas |
-| **Quantum Back-end** | `[▓▓▓▓▓▓▓▓▓▓░ 98%%]` | Node.js, Go, Rust, Python, FastAPI, RAG |
-| **Singularity Model-Ops** | `[▓▓▓▓▓▓▓▓▓▓▓ 100%%]` | PyTorch, TensorFlow, LangChain, Swarms |
-| **Multiverse Infrastructure** | `[▓▓▓▓▓▓▓▓▓░░ 90%%]` | Kubernetes, AWS, GCP, Terraform, CI/CD |
+| **Front-end Synthesis** | `[▓▓▓▓▓▓▓▓▓▓▓ 100%%]` | React, Next.js, Framer, Three.js, Canvas |
+| **Logic Back-end** | `[▓▓▓▓▓▓▓▓▓▓░ 98%%]` | Node.js, Go, Rust, Python, FastAPI, RAG |
+| **A.I. Core-Ops** | `[▓▓▓▓▓▓▓▓▓▓▓ 100%%]` | PyTorch, TensorFlow, LangChain, Swarms |
+| **Multiverse Infra** | `[▓▓▓▓▓▓▓▓▓░░ 92%%]` | Kubernetes, AWS, GCP, Terraform, CI/CD |
 
 <br>
 
@@ -185,38 +187,38 @@ graph TD
 
 ---
 
-<!-- [CINEMATIC INTERFACE: GOD-FIDELITY NEURAL FLOW] -->
-<h2 align="center">🎬 The Neural Command Center</h2>
+<!-- [CITY COMMAND INTERFACE: GOD-FIDELITY] -->
+<h2 align="center">🎬 The Galactic Command Center</h2>
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" style="border: none;">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/hacker-cat.gif" width="420" style="border-radius: 45px; box-shadow: 0 0 60px #00FFCB;" />
-<br><sub>[SYSTEM_ZENITH_STABLE]</sub>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/hacker-cat.gif" width="450" style="border-radius: 50px; box-shadow: 0 0 70px #00FFCB;" />
+<br><sub>[METROPOLIS_STABLE_100%]</sub>
 </td>
 <td align="center" style="border: none;">
-<img src="https://raw.githubusercontent.com/gist/TheDudeThatCode/67cf7706d649d28229b46571589d8928/raw/9478f700416954be407e3355938547ca59074092/coding.gif" width="550" style="border-radius: 45px; border: 6px solid #ff2d95; box-shadow: 0 0 70px rgba(255,45,149,0.7);" />
-<br><sub>[QUANTUM_CODE_GEN_ONLINE]</sub>
+<img src="https://raw.githubusercontent.com/gist/TheDudeThatCode/67cf7706d649d28229b46571589d8928/raw/9478f700416954be407e3355938547ca59074092/coding.gif" width="580" style="border-radius: 50px; border: 8px solid #ff2d95; box-shadow: 0 0 80px rgba(255,45,149,0.8);" />
+<br><sub>[CITY_CODE_GEN_ONLINE]</sub>
 </td>
 </tr>
 </table>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="520" style="filter: hue-rotate(285deg) brightness(1.7) saturate(2.2); border-radius: 40px; box-shadow: 0 0 50px rgba(0,255,203,0.6);" />
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="550" style="filter: hue-rotate(285deg) brightness(1.7) saturate(2.2); border-radius: 40px; box-shadow: 0 0 60px rgba(0,255,203,0.7);" />
 
 </div>
 
 ---
 
-<!-- [GALACTIC ANALYTICS: ZENITH DATA OVERRIDE] -->
-<h2 align="center">📊 Galactic Zenith Data Matrix</h2>
+<!-- [GALACTIC ANALYTICS OVERRIDE] -->
+<h2 align="center">📊 Galactic City Statistics Matrix</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=grharsha777&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00FFCB&icon_color=ff2d95&text_color=ffffff&border_radius=50" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=grharsha777&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00FFCB&icon_color=ff2d95&text_color=ffffff&border_radius=60" width="48%" />
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=grharsha777&theme=radical&hide_border=true&background=000000&stroke=00FFCB&ring=ff2d95&fire=ff2d95" width="48%" />
 
@@ -224,7 +226,7 @@ graph TD
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grharsha777&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00FFCB&text_color=ffffff&border_radius=50" width="45%" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=grharsha777&theme=radical&utcOffset=5.5&border_radius=40" width="45%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=grharsha777&theme=radical&utcOffset=5.5&border_radius=50" width="45%" />
 
 <br>
 
@@ -234,39 +236,51 @@ graph TD
 
 ---
 
-<!-- [DIVINE NEURAL CHAMBER: THE ZENITH OVERLORD SANCTUM] -->
-<h2 align="center">🕉️ Divine Singularity Sanctum</h2>
+<!-- [DIVINE NEURAL CHAMBER: THE SUPREME SANCTUM OF THE GODS] -->
+<h2 align="center">🕉️ The Divine Sanctum 🕉️</h2>
 
-<div align="center" style="background: linear-gradient(135deg, rgba(88,0,255,0.4), rgba(0,255,203,0.4)); padding: 100px; border-radius: 120px; border: 8px solid rgba(0,255,203,0.8); box-shadow: 0 0 150px rgba(0,255,203,0.6);">
+<div align="center" style="background: linear-gradient(135deg, rgba(88,0,255,0.4), rgba(0,255,203,0.4)); padding: 120px; border-radius: 150px; border: 12px solid rgba(0,255,203,1); box-shadow: 0 0 200px rgba(0,255,203,0.8);">
 
-<p align="center" style="font-size: 36px; font-family: Orbitron; color: #ffffff; text-shadow: 0 0 30px #00FFCB; font-weight: 900;">✨ SUPREME SYNC: CODE & SPIRIT ✨</p>
+<p align="center" style="font-size: 40px; font-family: Orbitron; color: #ffffff; text-shadow: 0 0 40px #00FFCB; font-weight: 950;">✨ SUPREME DIVINE REQUIM: SOUL & CODE ✨</p>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AVATAR-SRI_RAM-FF6B35?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/AVATAR-SRI_RAM-FF6B35?style=for-the-badge&labelColor=0d1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/NEXUS-GANAPATHI-ff2d95?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/ARCH-GANAPATHI-ff2d95?style=for-the-badge&labelColor=0d1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/VOID-MAHADEV-7f00ff?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/VOID-MAHADEV-7f00ff?style=for-the-badge&labelColor=0d1117" />
 </div>
 
-<br>
+<br><br>
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/SHAKTI-MAA_PARVATHI-FF1493?style=for-the-badge&labelColor=1a1a2e" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PULSE-AYYAPPA_SWAMY-00FFCB?style=for-the-badge&labelColor=1a1a2e" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/WEALTH-MAA_LAKSHMI-FFD700?style=for-the-badge&labelColor=1a1a2e" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/WISDOM-MAA_SARASWATHI-7B68EE?style=for-the-badge&labelColor=1a1a2e" />
+</div>
+
+<br><br>
 
 <details>
-<summary align="center" style="font-family: Orbitron; color: #ffffff; font-size: 40px; cursor: pointer; background: rgba(0,0,0,0.8); padding: 40px; border-radius: 60px; border: 6px solid #ff2d95; box-shadow: 0 0 60px #ff2d95;">💠 UNLOCK SUPREME MULTIVERSE</summary>
+<summary align="center" style="font-family: Orbitron; color: #ffffff; font-size: 45px; cursor: pointer; background: rgba(0,0,0,0.9); padding: 50px; border-radius: 80px; border: 8px solid #ff2d95; box-shadow: 0 0 100px #ff2d95;">🌀 OPEN SUPREME SPIRITUAL PORTAL</summary>
 <br>
 
 <div align="center">
 
-| Overlord Realm | Neural Signal (Sacred Playlists) | Warp Protocol |
+| Divine Realm Cluster | Neural Requiem (Sacred Songs) | Warp Flow |
 |:---:|:---|:---:|
-| **Ram Rajya** | Ram Siya Ram, Jai Shri Ram, Hanuman Chalisa | [⚡ SUPREME_SYNC](https://www.youtube.com/results?search_query=jai+shri+ram+songs) |
-| **Siddhi Module** | Deva Shree Ganesha, Vakratunda, Bappa | [⚡ SUPREME_SYNC](https://www.youtube.com/results?search_query=ganapathi+songs) |
+| **Ayodhya Node** | Jai Shri Ram, Ram Siya Ram, Hanuman Chalisa | [⚡ SUPREME_SYNC](https://www.youtube.com/results?search_query=jai+shri+ram+songs) |
+| **Siddhi Module** | Deva Shree Ganesha, Vakratunda Mahakaya | [⚡ SUPREME_SYNC](https://www.youtube.com/results?search_query=ganapathi+songs) |
 | **Kailash Void** | Shiv Tandav Stotram, Om Namah Shivaya | [⚡ SUPREME_SYNC](https://www.youtube.com/results?search_query=lord+shiva+songs) |
-| **Shakti Matrix** | Aigiri Nandini, Durga Chalisa | [⚡ SUPREME_SYNC](https://www.youtube.com/results?search_query=durga+songs) |
-| **Saranam Node** | Harivarasanam, Ayyappa Swamy | [⚡ SUPREME_SYNC](https://www.youtube.com/results?search_query=ayyappa+songs) |
-| **Gyan Nexus** | Ya Kundendu, Lakshmi Ashtakam, Saraswati | [⚡ SUPREME_SYNC](https://www.youtube.com/results?search_query=lakshmi+saraswati+songs) |
+| **Shakti Matrix** | Aigiri Nandini, Durga Chalisa, Mantra | [⚡ SUPREME_SYNC](https://www.youtube.com/results?search_query=durga+songs) |
+| **Saranam Node** | Harivarasanam, Ayyappa Swamy Bhajans | [⚡ SUPREME_SYNC](https://www.youtube.com/results?search_query=ayyappa+songs) |
+| **Vedanta Core** | Ya Kundendu, Lakshmi Ashtakam, Saraswati | [⚡ SUPREME_SYNC](https://www.youtube.com/results?search_query=lakshmi+saraswati+songs) |
 
 </div>
 
@@ -276,33 +290,64 @@ graph TD
 
 ---
 
-<!-- [GUESTBOOK: SIGN THE SINGULARITY] -->
-<h2 align="center">📡 Leave Your DNA Link (Guestbook)</h2>
+<!-- [CITY TROPHY BOARD: PEAK VALIDATION] -->
+<div align="center">
+  <h2 align="center">🏆 Universal Metropolis Achievement Trophies</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=grharsha777&theme=radical&no-bg=true&no-frame=true&column=6" alt="Trophies" />
+</div>
+
+---
+
+<!-- [GLOBAL METROPOLIS CONNECTIVITY HUB] -->
+<h2 align="center">🌐 Global connectivity Hub</h2>
 
 <p align="center">
-  <a href="https://github.com/grharsha777/grharsha777/issues">
-    <img src="https://img.shields.io/badge/%E2%9C%A2_SIGN_THE_OVERLORD_LOG-DNA_UPLINK-00FFCB?style=for-the-badge&labelColor=0d1117" />
+  <a href="https://github.com/grharsha777">
+    <img src="https://img.shields.io/badge/SYNC-GITHUB-181717?style=for-the-badge&logo=github&logoColor=00FFCB" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/grharsha777/">
+    <img src="https://img.shields.io/badge/LINK-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/GRHARSHA777">
+    <img src="https://img.shields.io/badge/PULSE-X-000000?style=for-the-badge&logo=x&logoColor=ff2d95" />
+  </a>
+  &nbsp;
+  <a href="https://grharsha777.github.io/">
+    <img src="https://img.shields.io/badge/ORBIT-PORTFOLIO-00D1FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<!-- [TERMINAL SUPREME PEAK EXIT FOOTER] -->
+<!-- [GUESTBOOK: SIGN THE CITY LOG] -->
+<h2 align="center">📡 Leave Your Neural Fingerprint (Guestbook)</h2>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,15:00FFCB,30:00A8FF,50:7f00ff,70:ff2d95,85:FFD700,100:000000&height=280&section=footer&animation=fadeIn" />
+  <a href="https://github.com/grharsha777/grharsha777/issues">
+    <img src="https://img.shields.io/badge/%E2%9C%A2_SIGN_THE_METROPOLIS_LOG-DNA_SYNC-00FFCB?style=for-the-badge&labelColor=0d1117" />
+  </a>
+</p>
+
+---
+
+<!-- [TERMINAL SUPREME EXIT FOOTER: OMNI ZENITH] -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,15:00FFCB,30:00A8FF,50:7f00ff,70:ff2d95,85:FFD700,100:000000&height=320&section=footer&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=42&pause=1000&color=00FFCB&center=true&vCenter=true&width=1000&lines=ZENITH_OVERLORD_STABLE;THE_MULTIVERSE_IS_OURS;SEE_YOU_AT_THE_SINGULARITY;OM_SHANTI_✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=48&pause=1000&color=00FFCB&center=true&vCenter=true&width=1100&lines=METROPOLIS_OVERRIDE_COMPLETE;THE_GALAXY_IS_SECURED;SEE_YOU_IN_TH_SINGULARITY;OM_SHANTI_✨" />
 </p>
 
 <div align="center">
-  <sub>Neural Fingerprint: G R Harsha | Flux System: ZENITH_PRIME_v16.0_OVERLORD | Last Galaxy Sync: 2026-01-27</sub>
+  <sub>City Signature: G R Harsha | Flux System: METROPOLIS_ULTIMATE_v17.0 | Last Neural Sync: 2026-01-27</sub>
 </div>
 
 <br>
 
-<!-- [THE ABSOLUTE SUPREME VISITOR PEER SYNC] -->
+<!-- [THE ULTIMATE SUPREME CITY VISITOR SYNC] -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=grharsha777&color=00FFCB&style=flat-square&label=SUPREME_PEER_SYNCJACKS" />
+  <img src="https://komarev.com/ghpvc/?username=grharsha777&color=00FFCB&style=flat-square&label=METROPOLIS_PEER_SYNCJACKS" />
 </p>
