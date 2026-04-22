@@ -3,7 +3,7 @@
 # 🚀 G R HARSHA
 
 ### AI Engineer | Full-Stack Developer | Open Source Contributor
-### Mentor @ GSSOC | LLM Specialist | GSOC 2026 Aspirant
+### Mentor @ GSSOC | LLM Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/grharsha777)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://grharsha.vercel.app)
