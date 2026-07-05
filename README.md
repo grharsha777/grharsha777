@@ -1,30 +1,50 @@
 <div align="center">
 
-# 🚀 G R HARSHA
+# G R Harsha
 
-### AI Engineer | Full-Stack Developer | Open Source Contributor
-### Mentor @ GSSOC | LLM Specialist
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=460&lines=B.Tech+CSE+(AI)+%40+NIAT+x+Yenepoya;Data+Engineer+%40+CardioNerve;Founder%2C+Siddhi+Labs;Building+RAGHUPATI+%26+Ganapathi+Mentor+AI" alt="Typing SVG" /></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/grharsha777)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://grharsha.vercel.app)
-[![Hugging Face](https://img.shields.io/badge/🤗-Hugging%20Face-yellow?style=for-the-badge)](https://huggingface.co/grharsha777)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:grharsha128@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=grharsha777&color=brightgreen&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/grharsha777?style=for-the-badge&color=blue)
-![GitHub Stars](https://img.shields.io/github/stars/grharsha777?style=for-the-badge&color=yellow)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/grharsha777)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://grharsha.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:grharsha128@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### About
 
-I'm a passionate **B.Tech CSE (AI)** student at **NIAT** (NxtWave Institute of Advanced Technologies) in collaboration with **Yenepoya University**, deeply committed to **open-source development**, **AI innovation**, and **community mentoring**.
+2nd-year B.Tech CSE (AI) student at NIAT × Yenepoya University, working as a Data Engineer at CardioNerve and building Siddhi Labs on the side. I work mostly with Python, TypeScript, Next.js, FastAPI, and React — currently deep in multi-agent systems and RAG pipelines.
 
-### 🌟 Open Source Journey
-- 🎓 **Mentor @ GirlScript Summer of Code (GSSOC)** - India's largest open-source mentorship program
-- 👥 Guided **20+ students** in AI/ML, Python development, and emerging technologies
-- 🏆 Received **Certificate of Appreciation** for exceptional mentoring and student impact
-- 🎯 Actively preparing for **Google Summer of Code (GSOC) 2026**
-- 💡 Strong believer in **collaborative development** and **knowledge sharing**
+- 🛠️ Building **RAGHUPATI** — a multi-agent DevSecOps platform (CrewAI, LangGraph, FastAPI, Next.js)
+- 🐘 Building **Ganapathi Mentor AI** — an AI assistant platform under Siddhi Labs, with a published CLI (`ganapathi-mentor-cli`)
+- 🌱 Open Source Mentor @ GSSoC, Project Admin @ ECWoC
+- 🎓 Campus Ambassador — E-Cell IIT Bombay, Techfest IIT Bombay, Internshala, LetsUpgrade, GUESSS India
+
+---
+
+### Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=grharsha777&show_icons=true&theme=default&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=grharsha777&hide_border=true" height="165"/>
+</div>
+
+---
+
+<div align="center">
+
+📫 **grharsha128@gmail.com** · 🔗 [grharsha.vercel.app](https://grharsha.vercel.app)
+
+</div>
