@@ -2,7 +2,7 @@
 
 # G R Harsha
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=460&lines=B.Tech+CSE+(AI)+%40+NIAT+x+Yenepoya;Data+Engineer+%40+CardioNerve;Founder%2C+Siddhi+Labs;Building+RAGHUPATI+%26+Ganapathi+Mentor+AI" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=460&lines=B.Tech+CSE+(AI)+%40+NIAT+x+Yenepoya;Data+Engineer+%40+CardioNerve;Founder%2C+Siddhi+Labs;RAGHUPATI+%26+Ganapathi+Mentor+AI" alt="Typing SVG" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/grharsha777)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://grharsha.vercel.app)
